@@ -14,4 +14,16 @@ Inicio de la creacion de la base de datos en MySQL
 
 ![wallpaper-mysql](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/eefc6fbd-12f7-4431-8287-f17aa721d680)
 ![25](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/ad16d8f1-186c-4ec1-9df5-49147e86b853)
-![24](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/6d6cb908-142a-40f0-8d27-c150603d0842)
+
+
+Se inicia con el menu principal:
+
+![1](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/67eff982-01ca-49e7-b8ef-7733de71ac98)
+
+Se crea acceso por usuario con la coneccion a la base de datos:
+
+![2](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/bbe946c6-5178-44cd-a427-776d3e4f44f1)
+![24](https://github.com/juliobatalla/Hotel_JB_alura/assets/119636987/524091a1-2e83-4e48-9bc2-8a6409127a3f)
+
+
+
