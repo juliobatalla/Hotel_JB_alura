@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="resource/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/julio/eclipse-workspace/Hotel_JB_alura/JARS/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/julio/eclipse-workspace/Hotel_JB_alura/JARS/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/julio/eclipse-workspace/Hotel_JB_alura/JARS/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/julio/eclipse-workspace/Hotel_JB_alura/JARS/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="JARS/css-validator.jar"/>
+	<classpathentry kind="lib" path="JARS/Json-20230227.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
